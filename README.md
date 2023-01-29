@@ -1,4 +1,4 @@
-# Note Taker Starter Code
+# Note Taker 
 
   ![Github license](https://img.shields.io/badge/license-MIT-green.svg)
   ## Table of Contents:
@@ -37,4 +37,4 @@
   If you have questions please Email: mwalke35@yahoo.com<br />
   See: GitHub:  (https://github.com/mwalker35-stack)
 
-  
+
