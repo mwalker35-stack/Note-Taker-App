@@ -23,7 +23,7 @@
   Express.js, uuid, jest
 
   ## Usage:
-  in intigrated terminal type node server.js or visit deployed app
+  in intigrated terminal type node server.js / npm start or visit deployed app 
 
   ## License:
   ![badge](https://img.shields.io/badge/license-MIT-green)
