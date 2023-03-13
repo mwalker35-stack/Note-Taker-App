@@ -12,7 +12,7 @@
 
   *[Contributing](#Contributing)
 
-  *[LiveDeployedSite](#Live)
+  *[LiveSite](#LiveSite)
 
   *[Questions](#Questions)
 
@@ -37,7 +37,7 @@
   If you have questions please Email: mwalke35@yahoo.com<br />
   See: GitHub:  (https://github.com/mwalker35-stack)
   
-  ## Live Deployed site:
+  ## LiveSite:
   https://note-taker-capp.herokuapp.com/
   
 
