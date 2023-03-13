@@ -12,7 +12,7 @@
 
   *[Contributing](#Contributing)
 
-  *[Live Deployed Site](#Live Deployed site)
+  *[LiveDeployedSite](#Live Deployed site)
 
   *[Questions](#Questions)
 
